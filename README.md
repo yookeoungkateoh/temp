@@ -1,3 +1,3 @@
 # About 
 Todo List App 
-- Users can Add
+- Users can Add/Edit/Update/Delete a task 
